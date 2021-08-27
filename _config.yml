@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "zhengfangyu.github.io"
+title                    : "mayuan05.github.io"
 title_separator          : "-"
-name                     : &name "Zheng, Fangyu"
+name                     : &name "Ma, Yuan"
 description              : &description "personal description"
-url                      : https://zhengfangyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mayuan05.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhengfangyu/zhengfangyu.github.io"
+repository               : "mayuan05/mayuan05.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Fangyu(郑昉昱)"
-  avatar           : "zhengfangyu_potrait.jpg"
-  bio              : "Cryptography and GPU"
+  name             : "Ma Yuan(马原)"
+  avatar           : "mayuan_potrait.jpg"
+  bio              : "Cryptographic module evaluation and Applied Cryptography"
   location         : #"Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TWyTZp0AAAAJ&hl=en"
-  email            :  zhengfy1028@hotmail.com
-  researchgate     :  "https://www.researchgate.net/profile/Fangyu-Zheng"
+  email            :  yuanma05@gmail.com
+  researchgate     :  "https://www.researchgate.net/scientific-contributions/Yuan-Ma-2163017124"
   uri              :
   bitbucket        :
   codepen          :
