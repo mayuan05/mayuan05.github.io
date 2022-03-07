@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am an assistant researcher in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). I am also the Chief Engineer of Testing Lab in DCS center, CAS.
+I am an associate researcher in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS).
 
-I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
+I received Bachelor’s Degree from the Tsinghua University(THU) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
 My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing.
 
@@ -19,38 +19,37 @@ My job focuses on applying cryptography in reality. Parts of my achievements inc
 * High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
 * Secure and fast software cryptographic implementations (numberous publications and implementations).
 * Cryptography evaluation methods (2 fundamental standards, i.e., GB/T 37092 and GB/T 39786). 
+...
 
 
 Latest Publications (\* denotes the corresponding author.)
 ======
-1. Lili Gao, *Fangyu Zheng* *, Rong Wei, Jiankuo Dong, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, [doi: 10.1109/TIFS.2021.3098987](https://ieeexplore.ieee.org/document/9492115).
-1. Lipeng Wan, *Fangyu Zheng* *, Jingqiang Lin, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", 17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), 2021, **accepted to appear**.
-1. Guang Fan, *Fangyu Zheng* *, Jiankuo Dong, Jingqiang Lin, Lili Gao, Rong Wei, Lipeng Wan, "A Secure and Efficient Cryptographic Co-processor Based on Embedded GPU System", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021.  **accepted to appear**.
-1. Jiankuo Dong, Guang Fan, *Fangyu Zheng* *, Jingqiang Lin, Zhe Liu and Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", 16th International Conference on Wireless Algorithms, Systems, and Application (WASA), 2021，**accepted to appear**.
-1. Jingqiang Lin, *Fangyu Zheng*, Wei Wang, Zhe Liu, Qiongxiao Wang, “Cryptographic Software Implementation and Cryptographic Key Security”, China Machine Press, 2021. [ISBN 9787111679578](http://www.hzcourse.com/web/teachRes/detail/5217/214)
+1. *Yuan Ma*; Tianyu Chen; Jingqiang Lin; Jing Yang; Jiwu Jing, “Entropy estimation for ADC sampling-based true random number generators", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
+1. Shuangyi Zhu; *Yuan Ma*; Jingqiang Lin; Jia Zhuang; Jiwu Jing, "More powerful and reliable second-level statistical randomness tests for NIST SP 800-22", Annual International Conference on the Theory and Applicatio n of Cryptology and Information Security (ASIACRYPT), 2016.
+1. Tianyu Chen; *Yuan Ma*; Jingqiang Lin; Yuan Cao; Na Lv; Jiwu Jing, "A Lightweight Full Entropy TRNG With On-Chip Entropy Assurance", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021.
+1. Shuangyi Zhu; *Yuan Ma*; Xusheng Li; Jing Yang; Jingqiang Lin; Jiwu Jing, "On the analysis and improvement of min-entropy estimation on time-varying data", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
+1. Shuangyi Zhu; *Yuan Ma*; Tianyu Chen; Jingqiang Lin; Jiwu Jing, “Analysis and improvement of entropy estimators in NIST SP 800-90B for non-IID entropy sources”, IACR Transactions On Symmetric Cryptology (TOSE 2017 & FSE 2018), 2017.
 
 
 See [full publications](/full-publications/).
 
 Fundings and Projects
 ======
-1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. RAGR20210131), 2021.
-1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund, 2021.
-1.  National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.
-1.  National Key R&D Plan of China, "Cryptography Application Security Evaluation of Mobile Government Service", 2018.
-1.  National Key R&D Plan of China, "Architecuture of Cryptographic Service Supporting Infrastructures and Research on Cryptographic Key Management Technology in the Mobile Internet (Grant No. 2017YFB0802101)", 2017.  
-1.  National Key R&D Plan of China, "Key Technologies of Cryptographic Cloud Service (Grant No. 2017YFB0802103)", 2017. 
-1.  Imported Outstanding Young Talents of IIE-CAS, 2017.
+1.  National Natural Science Foundation of China, "Research on Safety Evaluation Technology of Random Number Generator Based on Behavior Prediction", 2019-01-01 to 2022-12-31.
+1.  National Natural Science Foundation of China, "Research on Key Protection Technology of Universal Computing Platform", 2018-01-01 to 2021-12-31.
+1.  National Natural Science Foundation of China, "Research on Entropy Detection Method of True Random Number Generator", 2017- 01-01 to 2019-12-31.
 
 Awards
 ======
-1. 17th Information Security Conference (ISC 2014) [Best Student Paper Award](http://isc14.ie.cuhk.edu.hk/) for “Exploiting the Floating-Point Computing Power of GPUs for RSA”.
+1. Outstanding Youth Award of China Cryptography Society, Chinese Association for Cryptologic Research (CACR).
+1. Member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences, Chinese Acadamy of Sciences (UCAS).
+1. The Second Prize of Cryptographic Innovation of China Cryptography Society, Chinese Association for Cryptologic Research (CACR).
 
 Standards
 ======
-1. GB/T 37092-2018 ["Information security technology—Security requirements for cryptographic modules"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657) 
-1. GB/T 39786-2021 ["Information security technology—Baseline for information system cryptography application"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC) 
-1. GB/T 40018-2021 ["Information security technology—Certificate request and application protocol based on multiple channels"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF) 
+1. GM/T 0105-2021 ["Software random number generator design guide"](https://www.chinesestandard.net/PDF.aspx/GMT0105-2021) 
+1. GM/T 0005-2021 ["Randomness testing specifications"](https://www.chinesestandard.net/PDF.aspx/GMT0005-2021) 
+1. GM/T 0078-2020 ["The design guidelines for cryptographic random number generation module"](https://www.chinesestandard.net/PDF.aspx/GMT0078-2020) 
 
 See [full standards](/standards/).
 
@@ -58,14 +57,16 @@ Acadamic Services
 ======
 1. PC member: ACNS-SCI 2020/2021
 1. Journal reviewer: IEEE Transactions on Computers (TC), PeerJ Computer Science
+..
 
 Co-supervised students
 ======
-1. Juanjuan Cheng (Master, graduated in 2018)
-1. Wangzhao Cheng (Ph.D., graduated in 2019)
-1. Jiankuo Dong (Ph.D., graduated in 2019)
-1. Ziyang Wang (Ph.D., graduated in 2021)
-1. Rong Wei (Ph.D. candidate)
-1. Lili Gao (Ph.D. candidate)
-1. Lipeng Wang (Ph.D. candidate)
-1. Guang Fan (Ph.D. candidate)
+1. jing Yang (Master, graduated in 2018)
+1. Shuangyi Zhu (Ph.D., graduated in 2019)
+1. Xinying Wu (Ph.D., graduated in 2020)
+
+Supervised students
+1. Mingshu Du (Master, graduated in 2021)
+1. Dongchi Han (Master, candidate)
+1. Weisong Gu (Master, candidate)
+1. Xinyue Yang (Master, candidate)
