@@ -13,22 +13,22 @@ I am an associate researcher in the Institute of Information Engineering, Chines
 
 I received Bachelor’s Degree from the Tsinghua University(THU) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing.
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation.
 
-My job focuses on applying cryptography in reality. Parts of my achievements include:
-* High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
-* Secure and fast software cryptographic implementations (numberous publications and implementations).
+My job focuses on random number generator and entropy estimation. Parts of my achievements include:
+* A sufficient entropy noise source device (2 patents).
+* Evaluation technology of random number generator (numberous publications and implementations).
+* the design of digital random number generator (one fundamental standard).
 * Cryptography evaluation methods (2 fundamental standards, i.e., GB/T 37092 and GB/T 39786). 
-...
 
 
 Latest Publications (\* denotes the corresponding author.)
 ======
-1. *Yuan Ma*; Tianyu Chen; Jingqiang Lin; Jing Yang; Jiwu Jing, “Entropy estimation for ADC sampling-based true random number generators", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
-1. Shuangyi Zhu; *Yuan Ma*; Jingqiang Lin; Jia Zhuang; Jiwu Jing, "More powerful and reliable second-level statistical randomness tests for NIST SP 800-22", Annual International Conference on the Theory and Applicatio n of Cryptology and Information Security (ASIACRYPT), 2016.
-1. Tianyu Chen; *Yuan Ma*; Jingqiang Lin; Yuan Cao; Na Lv; Jiwu Jing, "A Lightweight Full Entropy TRNG With On-Chip Entropy Assurance", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021.
-1. Shuangyi Zhu; *Yuan Ma*; Xusheng Li; Jing Yang; Jingqiang Lin; Jiwu Jing, "On the analysis and improvement of min-entropy estimation on time-varying data", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
-1. Shuangyi Zhu; *Yuan Ma*; Tianyu Chen; Jingqiang Lin; Jiwu Jing, “Analysis and improvement of entropy estimators in NIST SP 800-90B for non-IID entropy sources”, IACR Transactions On Symmetric Cryptology (TOSE 2017 & FSE 2018), 2017.
+1. ***Yuan Ma***; Tianyu Chen; Jingqiang Lin; Jing Yang; Jiwu Jing, “Entropy estimation for ADC sampling-based true random number generators", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
+1. Shuangyi Zhu; ***Yuan Ma***; Jingqiang Lin; Jia Zhuang; Jiwu Jing, "More powerful and reliable second-level statistical randomness tests for NIST SP 800-22", Annual International Conference on the Theory and Applicatio n of Cryptology and Information Security (ASIACRYPT), 2016.
+1. Tianyu Chen; **Yuan Ma**; Jingqiang Lin; Yuan Cao; Na Lv; Jiwu Jing, "A Lightweight Full Entropy TRNG With On-Chip Entropy Assurance", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021.
+1. Shuangyi Zhu; **Yuan Ma**; Xusheng Li; Jing Yang; Jingqiang Lin; Jiwu Jing, "On the analysis and improvement of min-entropy estimation on time-varying data", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
+1. Shuangyi Zhu; **Yuan Ma**; Tianyu Chen; Jingqiang Lin; Jiwu Jing, “Analysis and improvement of entropy estimators in NIST SP 800-90B for non-IID entropy sources”, IACR Transactions On Symmetric Cryptology (TOSE 2017 & FSE 2018), 2017.
 
 
 See [full publications](/full-publications/).
@@ -52,6 +52,11 @@ Standards
 1. GM/T 0078-2020 ["The design guidelines for cryptographic random number generation module"](https://www.chinesestandard.net/PDF.aspx/GMT0078-2020) 
 
 See [full standards](/standards/).
+
+Patent
+======
+1. **Yuan Ma**, Jiwu jing, Tianyu Chen, Jingqiang Lin, "A sufficient entropy digital physical noise source device", 2020-9-8, ZL201710060581.1.
+1. **Yuan Ma**, Jiwu jing, Tianyu Chen, Jingqiang Lin, "A high-speed foot entropy digital physical noise source device", 2021-6-25, ZL2017011394.5.
 
 Acadamic Services
 ======
