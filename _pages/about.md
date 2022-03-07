@@ -64,9 +64,11 @@ Co-supervised students
 1. jing Yang (Master, graduated in 2018)
 1. Shuangyi Zhu (Ph.D., graduated in 2019)
 1. Xinying Wu (Ph.D., graduated in 2020)
+1. Zhaohui Chen (PH.D., candidate)
 
 Supervised students
-1. Mingshu Du (Master, graduated in 2021)
+======
+1. Mingshu Du (Master, graduated in 2022)
 1. Dongchi Han (Master, candidate)
 1. Weisong Gu (Master, candidate)
 1. Xinyue Yang (Master, candidate)
