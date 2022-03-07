@@ -24,8 +24,8 @@ My job focuses on random number generator and entropy estimation. Parts of my ac
 
 Latest Publications (\* denotes the corresponding author.)
 ======
-1. ***Yuan Ma***; Tianyu Chen; Jingqiang Lin; Jing Yang; Jiwu Jing, “Entropy estimation for ADC sampling-based true random number generators", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
-1. Shuangyi Zhu; ***Yuan Ma***; Jingqiang Lin; Jia Zhuang; Jiwu Jing, "More powerful and reliable second-level statistical randomness tests for NIST SP 800-22", Annual International Conference on the Theory and Applicatio n of Cryptology and Information Security (ASIACRYPT), 2016.
+1. **Yuan Ma**; Tianyu Chen; Jingqiang Lin; Jing Yang; Jiwu Jing, “Entropy estimation for ADC sampling-based true random number generators", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
+1. Shuangyi Zhu; **Yuan Ma**; Jingqiang Lin; Jia Zhuang; Jiwu Jing, "More powerful and reliable second-level statistical randomness tests for NIST SP 800-22", Annual International Conference on the Theory and Applicatio n of Cryptology and Information Security (ASIACRYPT), 2016.
 1. Tianyu Chen; **Yuan Ma**; Jingqiang Lin; Yuan Cao; Na Lv; Jiwu Jing, "A Lightweight Full Entropy TRNG With On-Chip Entropy Assurance", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021.
 1. Shuangyi Zhu; **Yuan Ma**; Xusheng Li; Jing Yang; Jingqiang Lin; Jiwu Jing, "On the analysis and improvement of min-entropy estimation on time-varying data", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
 1. Shuangyi Zhu; **Yuan Ma**; Tianyu Chen; Jingqiang Lin; Jiwu Jing, “Analysis and improvement of entropy estimators in NIST SP 800-90B for non-IID entropy sources”, IACR Transactions On Symmetric Cryptology (TOSE 2017 & FSE 2018), 2017.
