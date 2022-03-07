@@ -60,9 +60,11 @@ Patent
 
 Acadamic Services
 ======
-1. PC member: ACNS-SCI 2020/2021
-1. Journal reviewer: IEEE Transactions on Computers (TC), PeerJ Computer Science
-..
+1. Patterns, Reviewer
+1. Entropy, Reviewer
+1. Microprocessors and Microsystems, Reviewer
+1. Chinese Journal of Computers, Reviewer
+1. China Science, Reviewer
 
 Co-supervised students
 ======
