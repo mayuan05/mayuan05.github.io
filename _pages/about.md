@@ -57,6 +57,18 @@ Patent
 ======
 1. **Yuan Ma**, Jiwu jing, Tianyu Chen, Jingqiang Lin, "A sufficient entropy digital physical noise source device", 2020-9-8, ZL201710060581.1.
 1. **Yuan Ma**, Jiwu jing, Tianyu Chen, Jingqiang Lin, "A high-speed foot entropy digital physical noise source device", 2021-6-25, ZL2017011394.5.
+1. Luning Xia, Shijie Jia, **Yuan Ma**, Lei Wang, QiongLu Zhang, "A method and device for generating full entropy random number based on flash memory", 2017-10-10, ZL201510026059.2
+1. Neng Gao, Chenyang Tu, **Yuan Ma**, ZongBin Liu, Jiwu Jing, "A double-layer compound register system and a method for resisting energy analysis attack", 2016-8-17, ZL201310547995.9
+1. Jiwu Jing, Chenyang Tu, **Yuan Ma**, ZongBin Liu, Neng Gao, "A logic compound register system and a method to resist energy analysis attack", 2016-6-1, ZL201310551517.5
+1. Jiwu Jing, Chenyang Tu, Zeyi Liu, Zongbin Liu, **Yuan Ma**, Neng Gao, "A double-edge trigger driving logic system and a method to resist energy analysis attack", 2017-3-8, ZL201410382777.9
+1. Bin Wang, Zhaohui Chen, Yanchu Li, Jiwu Jing, Xiaozhuo Gu,**Yuan Ma**, "An elliptic curve public key textual transfer method and system", 2020-8-28, ZL201910067468.5
+1. Bin Wang, Xiaozhuo Gu, Jiwu Jing, **Yuan Ma**, Yingshan Yang, Zhaohui Chen, Yanchu Li, "A short Chinese character encoding and decoding method of elliptic curve public key", 2020-8-28, ZL201910067861.4
+
+Software copyright
+======
+1. **Yuan Ma**, Tianyu Chen, Dongchi Han, Na Lv, Fangyu Zheng, Shijie Jia, Pingjian wang, "Software random number generator V1.0 based on China commercial cryptographic algorithm V1.0", 2021-11-9, 2022SR0094605
+1. **Yuan Ma** Xubo Li, Shuangyi Zhu, Tianyu Chen, Jingqiang Lin, "China commercial cryptographic algorithm implementation compliance test platform system V1.0", 2017-8-8, 2017SR432111
+1. **Yuan Ma**, Xubo Li, Shuangyi Zhu, Tianyu Chen, Jingqiang Lin,"Random number statistics test platform", 2017-8-8, 2017SR431611
 
 Acadamic Services
 ======
