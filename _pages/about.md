@@ -12,9 +12,9 @@ redirect_from:
 I am an associate professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). I received Bachelor’s Degree from the Tsinghua University (THU) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
 My research interests lie in cryptographic engineering, especially in：
-* design and testing of random number generators, 
-* hardware implemenation of cryptographic algorithms, including ECC and post-quantum cryptography.
-* testing and evaluation techniques for cryptographic module and cryptographic systems.
+* Design and testing of random number generators, 
+* Hardware implemenation of cryptographic algorithms, including ECC and post-quantum cryptography,
+* Testing and evaluation techniques for cryptographic module and cryptographic systems.
 
 
 Latest Publications
@@ -29,14 +29,19 @@ See [full publications](/full-publications/).
 
 Books
 ======
-1. **[Book]** Wei Huo(霍炜), Qiquan Guo(郭启全), Yuan Ma(马原), "Commercial Cryptography Application and Security Evaluation", Electronic Industry Press, April 2020. 商用密码应用与安全性评估，电子工业出版社，2020年4月 
+1. **[Book]** Wei Huo(霍炜), Qiquan Guo(郭启全), **Yuan Ma(马原)**, "Commercial Cryptography Application and Security Evaluation", Electronic Industry Press, April 2020. 商用密码应用与安全性评估，电子工业出版社，2020年4月 
 
 
 Standards
 ======
-1. GM/T 0105-2021 ["Software random number generator design guide"](https://www.chinesestandard.net/PDF.aspx/GMT0105-2021) 
-1. GM/T 0005-2021 ["Randomness testing specifications"](https://www.chinesestandard.net/PDF.aspx/GMT0005-2021) 
-1. GM/T 0078-2020 ["The design guidelines for cryptographic random number generation module"](https://www.chinesestandard.net/PDF.aspx/GMT0078-2020) 
+
+
+1. **[1st author]**GM/T 0105-2021 ["软件随机数发生器设计指南(Software random number generator design guide)"](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) 
+1. GB/T 39786-2021 ["信息安全技术 信息系统密码应用基本要求(Information security technology—Baseline for information system cryptography application)"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC)
+1. GB/T 37092-2018 ["信息安全技术 密码模块安全要求(Information security technology—Security requirements for cryptographic modules)"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657)
+1. GM/T 0005-2021 ["随机性检测规范(Randomness testing specifications)"](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) 
+1. GM/T 0078-2020 ["密码随机数生成模块设计指南(The design guidelines for cryptographic random number generation module)"](http://www.gmbz.org.cn/main/viewfile/2021062711373015276.html) 
+
 
 See [full standards](/standards/).
 
