@@ -9,41 +9,28 @@ redirect_from:
 ---
 
 
-I am an associate researcher in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS).
+I am an associate professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). I received Bachelor’s Degree from the Tsinghua University (THU) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
 
-I received Bachelor’s Degree from the Tsinghua University(THU) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
-
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation.
-
-My job focuses on random number generator and entropy estimation. Parts of my achievements include:
-* A sufficient entropy nois1e source device (2 patents).
-* Evaluation technology of random number generator (numberous publications and implementations).
-* the design of digital random number generator (one fundamental standard).
-* Cryptography evaluation methods (2 fundamental standards, i.e., GB/T 37092 and GB/T 39786). 
+My research interests lie in cryptographic engineering, especially in：
+* design and testing of random number generators, 
+* hardware implemenation of cryptographic algorithms, including ECC and post-quantum cryptography.
+* testing and evaluation techniques for cryptographic module and cryptographic systems.
 
 
-Latest Publications (\* denotes the corresponding author.)
+Latest Publications
 ======
-1. **Yuan Ma**; Tianyu Chen; Jingqiang Lin; Jing Yang; Jiwu Jing, “Entropy estimation for ADC sampling-based true random number generators", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
-1. Shuangyi Zhu; **Yuan Ma**; Jingqiang Lin; Jia Zhuang; Jiwu Jing, "More powerful and reliable second-level statistical randomness tests for NIST SP 800-22", Annual International Conference on the Theory and Applicatio n of Cryptology and Information Security (ASIACRYPT), 2016.
-1. Tianyu Chen; **Yuan Ma**; Jingqiang Lin; Yuan Cao; Na Lv; Jiwu Jing, "A Lightweight Full Entropy TRNG With On-Chip Entropy Assurance", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021.
-1. Shuangyi Zhu; **Yuan Ma**; Xusheng Li; Jing Yang; Jingqiang Lin; Jiwu Jing, "On the analysis and improvement of min-entropy estimation on time-varying data", IEEE Transactions on Information Forensics and Security (TIFS), 2019.
-1. Shuangyi Zhu; **Yuan Ma**; Tianyu Chen; Jingqiang Lin; Jiwu Jing, “Analysis and improvement of entropy estimators in NIST SP 800-90B for non-IID entropy sources”, IACR Transactions On Symmetric Cryptology (TOSE 2017 & FSE 2018), 2017.
 
+1. **[Journal-IEEE TCAD 2022, CCF-A]**  Zhaohui Chen, **Yuan Ma\***, Jiwu Jing. Low-Cost Shuffling Countermeasures against Side-Channel Attacks for NTT-based Post-Quantum Cryptography. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2022. (**Accepted to appear**)
+1. **[Conference-IEEE ICC 2022, CCF-C]**  Mingshu Du, **Yuan Ma\***, Na Lv, Tianyu Chen, Shijie Jia, Fangyu Zheng. An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator. 2022 IEEE International Conference on Communications (ICC 2022): May 2022. (**Accepted to appear**)
+1.  **[Journal-IEEE TCAD 2022, CCF-A]** Tianyu Chen; **Yuan Ma\***; Jingqiang Lin; Yuan Cao; Na Lv; Jiwu Jing, "A Lightweight Full Entropy TRNG With On-Chip Entropy Assurance", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021.
 
 See [full publications](/full-publications/).
 
-Fundings and Projects
-======
-1.  National Natural Science Foundation of China, "Research on Safety Evaluation Technology of Random Number Generator Based on Behavior Prediction", 2019-01-01 to 2022-12-31.
-1.  National Natural Science Foundation of China, "Research on Key Protection Technology of Universal Computing Platform", 2018-01-01 to 2021-12-31.
-1.  National Natural Science Foundation of China, "Research on Entropy Detection Method of True Random Number Generator", 2017- 01-01 to 2019-12-31.
 
-Awards
+Books
 ======
-1. Outstanding Youth Award of China Cryptography Society, Chinese Association for Cryptologic Research (CACR).
-1. Member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences, Chinese Acadamy of Sciences (UCAS).
-1. The Second Prize of Cryptographic Innovation of China Cryptography Society, Chinese Association for Cryptologic Research (CACR).
+1. **[Book]** Wei Huo(霍炜), Qiquan Guo(郭启全), Yuan Ma(马原), "Commercial Cryptography Application and Security Evaluation", Electronic Industry Press, April 2020. 商用密码应用与安全性评估，电子工业出版社，2020年4月 
+
 
 Standards
 ======
@@ -69,6 +56,21 @@ Software copyright
 1. **Yuan Ma**, Tianyu Chen, Dongchi Han, Na Lv, Fangyu Zheng, Shijie Jia, Pingjian wang, "Software random number generator V1.0 based on China commercial cryptographic algorithm V1.0", 2021-11-9, 2022SR0094605
 1. **Yuan Ma** Xubo Li, Shuangyi Zhu, Tianyu Chen, Jingqiang Lin, "China commercial cryptographic algorithm implementation compliance test platform system V1.0", 2017-8-8, 2017SR432111
 1. **Yuan Ma**, Xubo Li, Shuangyi Zhu, Tianyu Chen, Jingqiang Lin,"Random number statistics test platform", 2017-8-8, 2017SR431611
+
+Awards
+======
+1. The Second Prize of Cryptographic Innovation of China Cryptography Society, Chinese Association for Cryptologic Research (CACR), 2020. 中国密码学会密码创新二等奖
+1. Outstanding Youth Award of China Cryptography Society, Chinese Association for Cryptologic Research (CACR), 2019. 中国密码学会优秀青年奖
+1. Member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences, Chinese Acadamy of Sciences (UCAS),2018. 中国科学院青年创新促进会会员
+
+
+Fundings and Projects
+======
+1.  National Natural Science Foundation of China, "Research on Safety Evaluation Technology of Random Number Generator Based on Behavior Prediction", 2019-01-01 to 2022-12-31.
+1.  National Natural Science Foundation of China, "Research on Key Protection Technology of Universal Computing Platform", 2018-01-01 to 2021-12-31.
+1.  National Natural Science Foundation of China, "Research on Entropy Detection Method of True Random Number Generator", 2017- 01-01 to 2019-12-31.
+1. National Key R&D Plan of China, “Research on Key Technologies of information transmission”, 2018-2022.
+
 
 Acadamic Services
 ======
