@@ -16,7 +16,7 @@ I received Bachelor’s Degree from the Tsinghua University(THU) and received Ph
 My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation.
 
 My job focuses on random number generator and entropy estimation. Parts of my achievements include:
-* A sufficient entropy noise source device (2 patents).
+* A sufficient entropy nois1e source device (2 patents).
 * Evaluation technology of random number generator (numberous publications and implementations).
 * the design of digital random number generator (one fundamental standard).
 * Cryptography evaluation methods (2 fundamental standards, i.e., GB/T 37092 and GB/T 39786). 
