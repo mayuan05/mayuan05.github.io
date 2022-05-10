@@ -31,7 +31,7 @@ See [full publications](/full-publications/).
 
 Books
 ======
-1. **[Book]** Wei Huo(霍炜), Qiquan Guo(郭启全), **Yuan Ma(马原)**, "Commercial Cryptography Application and Security Evaluation", Electronic Industry Press, April 2020. 商用密码应用与安全性评估，电子工业出版社，2020年4月 
+1. **[Book]** Wei Huo(霍炜), Qiquan Guo(郭启全), **Yuan Ma(马原)**, "Commercial Cryptography Application and Security Evaluation", Electronic Industry Press, April 2020. [《商用密码应用与安全性评估》](https://sca.gov.cn/sca/xwdt/2020-05/26/content_1060750.shtml)，电子工业出版社，2020年4月 
 
 
 Standards
@@ -91,10 +91,12 @@ Acadamic Services
 
 Co-supervised students
 ======
+1. 陈天宇(Tianyu Chen) (Ph.D., graduated in 2017)
 1. 庄家(Jia Zhuang)(Master, graduated in 2017)
 1. 杨静(Jing Yang) (Ph.D., graduated in 2018)
 1. 朱双怡(Shuangyi Zhu) (Ph.D., graduated in 2019)
 1. 吴鑫莹(Xinying Wu) (Ph.D., graduated in 2020)
+1. 吕娜(Na Lv)(Ph.D., graduated in 2020)
 1. 陈朝晖(Zhaohui Chen) (PH.D., graduated in 2022)
 
 Supervised students
