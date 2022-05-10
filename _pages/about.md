@@ -11,11 +11,12 @@ redirect_from:
 
 I have been an associate professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS) since 2016. I received Bachelor’s Degree from the Tsinghua University (THU) in 2009 and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 2014.
 
-My research interests lie in cryptographic engineering, especially in：
+My publications include IEEE TIFS, TCAD, AsiaCrypt, FSE, CHES, ICCD, SAC, etc. My research interests lie in cryptographic engineering, especially in：
 * Design and testing of random number generators, 
 * Hardware implemenation of cryptographic algorithms, including ECC and post-quantum cryptography,
 * Testing and evaluation techniques for cryptographic module and cryptographic systems.
-My publications include IEEE TIFS, TCAD, AsiaCrypt, FSE, CHES, ICCD, SAC, etc.
+
+
 
 
 Latest Publications
@@ -68,7 +69,8 @@ Awards
 1. Cryptologic Science and Technology Progress Award of China (3rd place, 5th co-winner), 2021. **密码科技进步三等奖**
 1. The Second Prize of Cryptographic Innovation of China Cryptography Society, Chinese Association for Cryptologic Research (CACR), 2020. **中国密码学会密码创新二等奖（省部级）**
 1. Outstanding Youth Award of China Cryptography Society, Chinese Association for Cryptologic Research (CACR), 2019. **中国密码学会优秀青年奖**
-1. Member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences, Chinese Acadamy of Sciences (UCAS),2018. **中国科学院青年创新促进会会员**
+1. Member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences, Chinese Acadamy of Sciences (UCAS), 2018. **中国科学院青年创新促进会会员**
+1. Excellent Doctoral Dissertation of Chinese Academy of Sciences, Chinese Acadamy of Sciences (UCAS), 2015. **中国科学院优秀博士学位论文**
 
 
 Fundings and Projects
