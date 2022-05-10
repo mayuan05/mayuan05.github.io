@@ -6,7 +6,7 @@ author_profile: true
 
 Published Standards
 ======
-1. **[牵头/1st author]**GM/T 0105-2021 *"Design guide for software-based random number generators"* 《软件随机数发生器设计指南》
+1. **[牵头/1st author]**GM/T 0105-2021 *"Design guide for software-based random number generators"* [《软件随机数发生器设计指南》](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) 
 1. GB/T 37092-2018 *"Information security technology—Security requirements for cryptographic modules"* [《信息安全技术 密码模块安全要求》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657)
 1. GB/T 39786-2021 *"Information security technology—Baseline for information system cryptography application"* [《信息安全技术 信息系统密码应用基本要求》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC)
 1. GB/T 40018-2021 *"Information security technology—Certificate request and application protocol based on multiple channels"* [《信息安全技术 基于多信道的证书申请和应用协议》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF)
