@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an associate professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). I received Bachelor’s Degree from the Tsinghua University (THU) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
+I have been an associate professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS) since 2016. I received Bachelor’s Degree from the Tsinghua University (THU) in 2009 and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 2014.
 
 My research interests lie in cryptographic engineering, especially in：
 * Design and testing of random number generators, 
@@ -36,11 +36,11 @@ Standards
 ======
 
 
-1. **[1st author]**GM/T 0105-2021 ["软件随机数发生器设计指南(Software random number generator design guide)"](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) 
-1. GB/T 39786-2021 ["信息安全技术 信息系统密码应用基本要求(Information security technology—Baseline for information system cryptography application)"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC)
-1. GB/T 37092-2018 ["信息安全技术 密码模块安全要求(Information security technology—Security requirements for cryptographic modules)"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657)
-1. GM/T 0005-2021 ["随机性检测规范(Randomness testing specifications)"](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) 
-1. GM/T 0078-2020 ["密码随机数生成模块设计指南(The design guidelines for cryptographic random number generation module)"](http://www.gmbz.org.cn/main/viewfile/2021062711373015276.html) 
+1. **[1st author]**GM/T 0105-2021 ["软件随机数发生器设计指南"](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) (Software random number generator design guide)
+1. GB/T 39786-2021 ["信息安全技术 信息系统密码应用基本要求"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC)(Information security technology—Baseline for information system cryptography application)
+1. GB/T 37092-2018 ["信息安全技术 密码模块安全要求"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657)(Information security technology—Security requirements for cryptographic modules)
+1. GM/T 0005-2021 ["随机性检测规范"](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) (Randomness testing specifications)
+1. GM/T 0078-2020 ["密码随机数生成模块设计指南"](http://www.gmbz.org.cn/main/viewfile/2021062711373015276.html) (The design guidelines for cryptographic random number generation module)
 
 
 See [full standards](/standards/).
@@ -64,9 +64,9 @@ Software copyright
 
 Awards
 ======
-1. The Second Prize of Cryptographic Innovation of China Cryptography Society, Chinese Association for Cryptologic Research (CACR), 2020. 中国密码学会密码创新二等奖
-1. Outstanding Youth Award of China Cryptography Society, Chinese Association for Cryptologic Research (CACR), 2019. 中国密码学会优秀青年奖
-1. Member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences, Chinese Acadamy of Sciences (UCAS),2018. 中国科学院青年创新促进会会员
+1. The Second Prize of Cryptographic Innovation of China Cryptography Society, Chinese Association for Cryptologic Research (CACR), 2020. **中国密码学会密码创新二等奖（省部级）**
+1. Outstanding Youth Award of China Cryptography Society, Chinese Association for Cryptologic Research (CACR), 2019. **中国密码学会优秀青年奖**
+1. Member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences, Chinese Acadamy of Sciences (UCAS),2018. **中国科学院青年创新促进会会员**
 
 
 Fundings and Projects
@@ -87,14 +87,15 @@ Acadamic Services
 
 Co-supervised students
 ======
-1. jing Yang (Master, graduated in 2018)
-1. Shuangyi Zhu (Ph.D., graduated in 2019)
-1. Xinying Wu (Ph.D., graduated in 2020)
-1. Zhaohui Chen (PH.D., candidate)
+1. 庄家(Jia Zhuang)(Master, graduated in 2017)
+1. 杨静(Jing Yang) (Ph.D., graduated in 2018)
+1. 朱双怡(Shuangyi Zhu) (Ph.D., graduated in 2019)
+1. 吴鑫莹(Xinying Wu) (Ph.D., graduated in 2020)
+1. 陈朝晖(Zhaohui Chen) (PH.D., graduated in 2022)
 
 Supervised students
 ======
-1. Mingshu Du (Master, graduated in 2022)
-1. Dongchi Han (Master, candidate)
-1. Weisong Gu (Master, candidate)
-1. Xinyue Yang (Master, candidate)
+1. 杜铭枢(Mingshu Du) (Master, graduated in 2022)
+1. 韩东池(Dongchi Han) (Master, candidate)
+1. 顾伟嵩(Weisong Gu) (Master, candidate)
+1. 杨欣悦(Xinyue Yang) (Master, candidate)
