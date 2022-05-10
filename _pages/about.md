@@ -15,6 +15,7 @@ My research interests lie in cryptographic engineering, especially in：
 * Design and testing of random number generators, 
 * Hardware implemenation of cryptographic algorithms, including ECC and post-quantum cryptography,
 * Testing and evaluation techniques for cryptographic module and cryptographic systems.
+My publications include IEEE TIFS, TCAD, AsiaCrypt, FSE, CHES, ICCD, SAC, etc.
 
 
 Latest Publications
@@ -22,7 +23,7 @@ Latest Publications
 
 1. **[Journal-IEEE TCAD 2022, CCF-A]**  Zhaohui Chen, **Yuan Ma\***, Jiwu Jing. Low-Cost Shuffling Countermeasures against Side-Channel Attacks for NTT-based Post-Quantum Cryptography. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2022. (**Accepted to appear**)
 1. **[Conference-IEEE ICC 2022, CCF-C]**  Mingshu Du, **Yuan Ma\***, Na Lv, Tianyu Chen, Shijie Jia, Fangyu Zheng. An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator. 2022 IEEE International Conference on Communications (ICC 2022): May 2022. (**Accepted to appear**)
-1.  **[Journal-IEEE TCAD 2022, CCF-A]** Tianyu Chen; **Yuan Ma\***; Jingqiang Lin; Yuan Cao; Na Lv; Jiwu Jing, "A Lightweight Full Entropy TRNG With On-Chip Entropy Assurance", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021.
+1.  **[Journal-IEEE TCAD 2021, CCF-A]** Tianyu Chen; **Yuan Ma\***; Jingqiang Lin; Yuan Cao; Na Lv; Jiwu Jing, "A Lightweight Full Entropy TRNG With On-Chip Entropy Assurance", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021.
 
 See [full publications](/full-publications/).
 
@@ -36,11 +37,11 @@ Standards
 ======
 
 
-1. **[1st author]**GM/T 0105-2021 ["软件随机数发生器设计指南"](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) (Software random number generator design guide)
-1. GB/T 39786-2021 ["信息安全技术 信息系统密码应用基本要求"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC)(Information security technology—Baseline for information system cryptography application)
-1. GB/T 37092-2018 ["信息安全技术 密码模块安全要求"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657)(Information security technology—Security requirements for cryptographic modules)
-1. GM/T 0005-2021 ["随机性检测规范"](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) (Randomness testing specifications)
-1. GM/T 0078-2020 ["密码随机数生成模块设计指南"](http://www.gmbz.org.cn/main/viewfile/2021062711373015276.html) (The design guidelines for cryptographic random number generation module)
+1. **[1st author]**GM/T 0105-2021 ["软件随机数发生器设计指南"](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) (*Software random number generator design guide*)
+1. GB/T 39786-2021 ["信息安全技术 信息系统密码应用基本要求"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC)(*Information security technology—Baseline for information system cryptography application*)
+1. GB/T 37092-2018 ["信息安全技术 密码模块安全要求"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657)(*Information security technology—Security requirements for cryptographic modules*)
+1. GM/T 0005-2021 ["随机性检测规范"](https://sca.gov.cn/sca/xwdt/2021-10/19/content_1060880.shtml) (*Randomness testing specifications*)
+1. GM/T 0078-2020 ["密码随机数生成模块设计指南"](http://www.gmbz.org.cn/main/viewfile/2021062711373015276.html) (*The design guidelines for cryptographic random number generation module*)
 
 
 See [full standards](/standards/).
@@ -64,6 +65,7 @@ Software copyright
 
 Awards
 ======
+1. Cryptologic Science and Technology Progress Award of China (3rd place, 5th co-winner), 2021. **密码科技进步三等奖**
 1. The Second Prize of Cryptographic Innovation of China Cryptography Society, Chinese Association for Cryptologic Research (CACR), 2020. **中国密码学会密码创新二等奖（省部级）**
 1. Outstanding Youth Award of China Cryptography Society, Chinese Association for Cryptologic Research (CACR), 2019. **中国密码学会优秀青年奖**
 1. Member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences, Chinese Acadamy of Sciences (UCAS),2018. **中国科学院青年创新促进会会员**
