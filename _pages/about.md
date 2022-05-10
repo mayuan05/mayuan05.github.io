@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I have been an associate professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS) since 2016. I received Bachelor’s Degree from the Tsinghua University (THU) in 2009 and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 2014.
+I have been an associate professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (中国科学院信息工程研究所) since 2016. I received Bachelor’s Degree from the Tsinghua University (THU) in 2009 and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 2014.
 
 My publications include IEEE TIFS, TCAD, AsiaCrypt, FSE, CHES, ICCD, CT-RSA, SAC, etc. My research interests lie in cryptographic engineering, especially in：
 * Design and testing of random number generators, 
@@ -83,6 +83,9 @@ Fundings and Projects
 
 Acadamic Services
 ======
+1. Vice-chair, Joint Committee on Security Evaluation of Commercial Cryptography Applications, Chinese Association for Cryptologic Research 中国密码学会商用密码应用安全性评估联委会 副主任委员
+1. Member, Committee on Cryptography Testing, , Chinese Association for Cryptologic Research 中国密码学会密码测评专委会 委员
+1. Expert member, Testing laboratory Accreditation of ISO/IEC 17025 and 17020, China National Accreditation Service for Conformity Assessment CNAS实验室认可评审专家
 1. Patterns, Reviewer
 1. Entropy, Reviewer
 1. Microprocessors and Microsystems, Reviewer
