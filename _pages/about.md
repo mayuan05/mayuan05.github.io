@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Welcome to Yuan Ma's Pages"
+excerpt: "Welcome to Yuan Ma's Pages"
 author_profile: true
 redirect_from: 
   - /about/
