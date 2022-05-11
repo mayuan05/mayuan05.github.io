@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I have been an associate professor in the Institute of Information Engineering, Chinese Acadamy of Sciences (中国科学院信息工程研究所) since 2016. I received Bachelor’s Degree from the Tsinghua University (THU) in 2009 and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 2014.
+I have been an associate professor in the Institute of Information Engineering (IIE), Chinese Acadamy of Sciences (中国科学院信息工程研究所) since 2016. I received Bachelor’s Degree from the Tsinghua University (THU) in 2009 and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS) in 2014.
 
 My publications include IEEE TIFS, TCAD, AsiaCrypt, FSE, CHES, ICCD, CT-RSA, SAC, etc. My research interests lie in cryptographic engineering, especially in：
 * Design and testing of random number generators, 
